@@ -52,4 +52,4 @@ run_pipeline.py  README.md
 Python standard-library docs only: `sqlite3`, `csv`, `json`, `unittest`, `re`, `calendar`, `tempfile`, `subprocess`.
 
 ## Author
-vijayalakshmi
+vijayalakshmi C
