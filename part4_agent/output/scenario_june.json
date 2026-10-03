@@ -1,0 +1,39 @@
+{
+  "run_month": "June",
+  "validation_status": "valid",
+  "validation_errors": [],
+  "flagged_categories": [
+    {
+      "category": "Ethnic Wear",
+      "mom_pct": -58.74,
+      "previous_revenue": 185107.61,
+      "current_revenue": 76371.53,
+      "drafted": true,
+      "message": "Context: This update covers Ethnic Wear revenue for June compared with May. Insight (fact): Ethnic Wear revenue fell from INR 185107.61 in May to INR 76371.53 in June, a month-on-month change of -58.74%. Implication (hypothesis, not proven by this data): the fall may come from a demand pullback, stock-outs or fewer active resellers listing Ethnic Wear. Recommended next step: ask regional managers to check which resellers reduced Ethnic Wear orders and whether any listings were out of stock, then report back before the next review.",
+      "approval_status": "pending_human_review"
+    },
+    {
+      "category": "Home & Kitchen",
+      "mom_pct": 42.59,
+      "previous_revenue": 91152.57,
+      "current_revenue": 129971.22,
+      "drafted": true,
+      "message": "Context: This update covers Home & Kitchen revenue for June compared with May. Insight (fact): Home & Kitchen revenue rose from INR 91152.57 in May to INR 129971.22 in June, a month-on-month change of 42.59%. Implication (hypothesis, not proven by this data): the rise may come from a promotion, seasonal demand or a few resellers driving volume. Recommended next step: ask regional managers to check whether the increase is broad-based or concentrated in a handful of resellers, and confirm stock and fulfilment capacity for Home & Kitchen before the next month starts.",
+      "approval_status": "pending_human_review"
+    },
+    {
+      "category": "Kids Wear",
+      "mom_pct": 23.9,
+      "previous_revenue": 45793.78,
+      "current_revenue": 56737.78,
+      "drafted": true,
+      "message": "Context: This update covers Kids Wear revenue for June compared with May. Insight (fact): Kids Wear revenue rose from INR 45793.78 in May to INR 56737.78 in June, a month-on-month change of 23.9%. Implication (hypothesis, not proven by this data): the rise may come from a promotion, seasonal demand or a few resellers driving volume. Recommended next step: ask regional managers to check whether the increase is broad-based or concentrated in a handful of resellers, and confirm stock and fulfilment capacity for Kids Wear before the next month starts.",
+      "approval_status": "pending_human_review"
+    }
+  ],
+  "suppressed_categories": [
+    "Western Wear"
+  ],
+  "escalated_categories": [],
+  "action_taken": "drafted_and_held_for_approval"
+}

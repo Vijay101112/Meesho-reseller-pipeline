@@ -1,0 +1,40 @@
+{
+  "run_month": "May",
+  "validation_status": "valid",
+  "validation_errors": [],
+  "flagged_categories": [
+    {
+      "category": "Ethnic Wear",
+      "mom_pct": 77.1,
+      "previous_revenue": 104520.77,
+      "current_revenue": 185107.61,
+      "drafted": true,
+      "message": "Context: This update covers Ethnic Wear revenue for May compared with April. Insight (fact): Ethnic Wear revenue rose from INR 104520.77 in April to INR 185107.61 in May, a month-on-month change of 77.1%. Implication (hypothesis, not proven by this data): the rise may come from a promotion, seasonal demand or a few resellers driving volume. Recommended next step: ask regional managers to check whether the increase is broad-based or concentrated in a handful of resellers, and confirm stock and fulfilment capacity for Ethnic Wear before the next month starts.",
+      "approval_status": "pending_human_review"
+    },
+    {
+      "category": "Western Wear",
+      "mom_pct": -23.6,
+      "previous_revenue": 113866.15,
+      "current_revenue": 86998.18,
+      "drafted": true,
+      "message": "Context: This update covers Western Wear revenue for May compared with April. Insight (fact): Western Wear revenue fell from INR 113866.15 in April to INR 86998.18 in May, a month-on-month change of -23.6%. Implication (hypothesis, not proven by this data): the fall may come from a demand pullback, stock-outs or fewer active resellers listing Western Wear. Recommended next step: ask regional managers to check which resellers reduced Western Wear orders and whether any listings were out of stock, then report back before the next review.",
+      "approval_status": "pending_human_review"
+    },
+    {
+      "category": "Kids Wear",
+      "mom_pct": -23.48,
+      "previous_revenue": 59847.27,
+      "current_revenue": 45793.78,
+      "drafted": true,
+      "message": "Context: This update covers Kids Wear revenue for May compared with April. Insight (fact): Kids Wear revenue fell from INR 59847.27 in April to INR 45793.78 in May, a month-on-month change of -23.48%. Implication (hypothesis, not proven by this data): the fall may come from a demand pullback, stock-outs or fewer active resellers listing Kids Wear. Recommended next step: ask regional managers to check which resellers reduced Kids Wear orders and whether any listings were out of stock, then report back before the next review.",
+      "approval_status": "pending_human_review"
+    }
+  ],
+  "suppressed_categories": [
+    "Beauty & Personal Care",
+    "Home & Kitchen"
+  ],
+  "escalated_categories": [],
+  "action_taken": "drafted_and_held_for_approval"
+}
